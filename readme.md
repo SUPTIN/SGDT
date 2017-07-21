@@ -1,5 +1,4 @@
-# SGDT
-## Sistema de Gestão de Documentos Técnicos e Manutenção 
+# SGDT ## Sistema de Gestão de Documentos Técnicos e Manutenção 
 
 
 ## Dependências:
