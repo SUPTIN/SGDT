@@ -1,8 +1,18 @@
 # SGDT
+## Sistema de Gestão de Documentos Técnicos e Manutenção 
+
+
+## Dependências:
+
+
+## Funcionalidades:
+
+
+## Processo de instalação:
 
 
 
-#Base sistema
+# Base sistema ------------------
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
